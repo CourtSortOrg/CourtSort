@@ -17,8 +17,11 @@ One of the staples of college life is the dining courts, yet choosing a dining c
 
 # Stakeholders
 **Project Coordinator:** Lakshay Kharbanda
+
 **Project Owners:** Aahan Aggarwal, Carlo Cirrincione, William Eiffert, Karl Gaertner, Daniel Kambich, and Tyler Ruth.
+
 **Developers:** Aahan Aggarwal, Carlo Cirrincione, William Eiffert, Karl Gaertner, Daniel Kambich, and Tyler Ruth.
+
 **Users:** Students and faculty at Purdue University who consistently eat at the dining courts.
 
 # Deliverables
