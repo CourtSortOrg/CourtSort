@@ -41,6 +41,8 @@ User stories for a guest user who has not set up an account:
 10. As a guest, I would like to view a map of the layout of each dining court. (if time allows).
 
 User stories for a user who has set up an account:
+
+
 11. As a user, I would like to create an account.
 12. As a user, I would like to sign into my account.
 13. As a user, I would like to have the option to use a third party provider such as Google or Facebook for account authentication.
@@ -90,6 +92,8 @@ User stories for a user who has set up an account:
 57. As a user, I would like to view which groups I am a part of so that I can choose which groups to share information with.
 
 User stories for a user acting in a group:
+
+
 58. As a group, we would like to view what dining court fits our preferences.
 59. As a group, we would like to view what time best fits for eating habits.
 60. As a group, we would like to vote on a dining court.
