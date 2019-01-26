@@ -4,5 +4,6 @@
 Aahan Aggarwal, Carlo Cirrincione, William Eiffert, Karl Gaertner, Daniel Kambich, and Tyler Ruth.
 
 # Instructions
-1. Go to [GitHub](https://github.com/CourtSortOrg/CourtSort/).
-2. Clone or download repository.
+Link to the repo: https://github.com/CourtSortOrg/CourtSort
+
+All you need to do is click on the link, all the files should be listed and accessible publicly.
