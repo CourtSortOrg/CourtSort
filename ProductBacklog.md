@@ -106,6 +106,8 @@ User stories for a user acting in a group:
 67. As a group, we would like to export meal events to third party calendars such as Google Calendar, Outlook, and iCalendar (if time allows).
 
 User stories for a user who is dining court staff:
+
+
 68. As dining court staff, I would like to push warnings such as equipment malfunctions or long lines to users (if time allows).
 
 ## Nonfunctional
